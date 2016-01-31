@@ -18,5 +18,5 @@
 ### Resources
 
 * design principles for quantitative data: read Edward Tufte's [books](https://www.edwardtufte.com/tufte/books_vdqi)
-
+* an example of [a great presentation](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en#t-16455)
 
