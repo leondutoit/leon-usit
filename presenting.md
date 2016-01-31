@@ -13,6 +13,7 @@
 * speak up
 * do a test run with someone who does not know the topic
 * silence is better than um-ing and ah-ing
+* arrive early to test the equipment
 
 ### Resources
 
