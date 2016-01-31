@@ -2,6 +2,7 @@
 ### In general
 
 * make eye contact
+  * scan the audience continually
   * try talking to a specific person in the audience when you do make eye contact 
   * this will remind you that you have to make sense to real people and engage them in what you are saying
   * spot someone who is not looking at you, try to make eye contact with them
