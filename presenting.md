@@ -14,10 +14,11 @@
 * speak up
 * do a test run with someone who does not know the topic
 * silence is better than um-ing and ah-ing
+  * I am thinking about English here
+  * this can be difficult for native Norwegian speakers since pausing with sound is part of the spoken language
 * arrive early to test the equipment
 
 ### Resources
 
 * design principles for quantitative data: read Edward Tufte's [books](https://www.edwardtufte.com/tufte/books_vdqi)
 * an example of [a great presentation](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement?language=en#t-16455)
-
