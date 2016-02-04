@@ -19,6 +19,8 @@
   * I am thinking about English here
   * this can be difficult for native Norwegian speakers since pausing with sound is part of the spoken language
 * arrive early to test the equipment
+* remember to take breaks; if your presentation is longer than 45 minutes your audience will love you for it
+* be punctual and finish within the allocated time - people appreciate this; if it looks like the discussion could continue take it afterwards
 
 ### Resources
 
